@@ -14,7 +14,8 @@
 
 
 <br>
-[Diagrama MVC em PDF](assets/mvcDiagram.pdf)<br>
+
+[Diagrama MVC em PDF](assets/mvcDiagram.pdf)
 [Diagrama MVC em PNG](assets/mvcDiagram.png)
 
 ## MVC
